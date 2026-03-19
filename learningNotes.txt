@@ -1,0 +1,21 @@
+Python:
+
+1. Yes or No boolean:
+
+repase lo que es un boolean en python y como se estructura python.
+tuve problemas con el "==" ya que usaba solo "=" o "===" que usualmente
+uno se usa para asignar valores a una variable y el otro se usa en JS.
+
+2. sum of positive:
+
+repase el uso de las "List" y "For", tenia bastante oxidado eso, dura un poco
+mas recordando. tuve problemas con la estuctura y la logica, ya que no habia
+repasado.
+
+PostgreSQL:
+
+1. Yes or No bollean:
+
+me tarde mas en este ejercicio ya que no habia puesto en practica, pero
+buscando ayuda sobre la sintaxis y estructura y tratando de comparar la
+logica del mismo ejercicio en python puse resolverlo.
