@@ -12,6 +12,23 @@ repase el uso de las "List" y "For", tenia bastante oxidado eso, dura un poco
 mas recordando. tuve problemas con la estuctura y la logica, ya que no habia
 repasado.
 
+3. String repeat
+
+me costo recordar la logica de la funcion de lectura de los string, por la
+falta de practica de estos, pero es sencillo.
+
+4. Remove First and Last Character
+
+muy sencillo, recorde las funciones de una List, el comando string[0,-1]
+indica que se leera desde el inicio al final del string, en positivo empieza
+en 0 y en reversa empieza desde el -1 asi lo lee python.
+
+5. Square(n) Sum
+
+me demore algo de lo esperado, no recordaba que habia unos comandos que
+hacian directamente el exponencial(**) en python, esta muy sencillo, unico
+problema la falta de practica.
+
 PostgreSQL:
 
 1. Yes or No bollean:
@@ -19,3 +36,13 @@ PostgreSQL:
 me tarde mas en este ejercicio ya que no habia puesto en practica, pero
 buscando ayuda sobre la sintaxis y estructura y tratando de comparar la
 logica del mismo ejercicio en python puse resolverlo.
+
+3. me costo mas comparado a python pero una ves acostumbrandome a la logica
+de sql y buscando los comandos, es sencillo de entender.
+
+4. Remove First and Last Character
+
+es similar a python la logica, solo me costo la estructuracion del codigo en
+sql.
+
+Nota Final: debo repasar mucho mas para acelelar el flujo de aprendizaje.
